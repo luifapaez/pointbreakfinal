@@ -1,0 +1,15 @@
+{
+  "name": "pointbreak",
+  "version": "1.0.0",
+  "description": "This is ok",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {},
+  "author": "Luis Paez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
